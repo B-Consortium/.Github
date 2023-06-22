@@ -6,7 +6,7 @@ The consortium has adopted procdures to remain open-sourced, to all respect of o
 
 Algorithms or thereof conventions of B-Consortium are made for public interest, the consortium inspired by mathematician [Sophie Germain](https://en.wikipedia.org/wiki/Sophie_Germain) wants to serve a greater cause to human advancement. In its best:
 
- - THe consortium will have all it's projects use ``B License``
+ - The consortium will have all it's projects use ``B License``
  - You are requested but not required to cite the correct source
  - The consortium will not be liable for any harms you make from derived products
  - The consortium is not a business, nor a legal joint of some companies, to avoid any legal problems, thereof it must be agreed; the consortium is philosophically named and reffered due to "association" in latin, in terms of associating it to the society well-being.
