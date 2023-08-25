@@ -2,7 +2,7 @@
 
 The Broke Consortium or referred to by a member as "Research, Provisions, Successors, and the Member of the Broke Consortium" or as "Broke Consortium of Mathematical Research", in short reffered to as B-Consortium was formed on 22 May, 2023 after the end of BS Consortium, and intends to work openly as a self-proclaimed, un-registered not-for-profit research organization, to help about the computational, and non-trivial mathematical fields to change around.
 
-The consortium has adopted procdures to remain open-sourced, to all respect of open-source rights of access. This implies the open-reach access of all activities to any person thereof with benefits of to any student of the acceding high school of the consortium. As per One-Member implementation, this organization is only runned by [Aitzaz Imtiaz](https://github.com/AitzazImtiaz/") in attempts to power applications which are mathematically efficient.
+The consortium has adopted procedures to remain open-sourced, to all respect of open-source rights of access. This implies the open-reach access of all activities to any person thereof with benefits of to any student of the acceding high school of the consortium. As per One-Member implementation, this organization is only runned by [Aitzaz Imtiaz](https://github.com/AitzazImtiaz/") in attempts to power applications which are mathematically efficient.
 
 Algorithms or thereof conventions of B-Consortium are made for public interest, the consortium inspired by mathematician [Sophie Germain](https://en.wikipedia.org/wiki/Sophie_Germain) wants to serve a greater cause to human advancement. In its best:
 
