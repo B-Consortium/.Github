@@ -27,3 +27,4 @@ franchise.
 2. External domains must keep updating any changes to this Code of Conduct.
 3. Changes to this document are subject to updates from the official source, which is `https://github.com/B-Consortium/*`. In case the source was removed, before this the external domain must keep the document to the latest revision.
 
+As such, the covenant is held responsible for preserving the regulations given to external regulations.
